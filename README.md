@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @H9306
 - 👀 I’m interested in .artificial intelligence 
-- 🌱 I’m currently learning ...c language 
-- 💞️ I’m looking to collaborate on ...learning html
+- 🌱 I’m currently learning ...data structures and algorithms in c++
+- 💞️ I’m looking to collaborate on ...learning full stack web development and machine learning
 - 📫 How to reach me ...9416532133
 
 <!---
